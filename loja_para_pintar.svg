@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="800" height="1100">
+<rect width="800" height="1100" fill="#fff"/>
+<g fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round">
+<text x="400" y="70" font-family="Arial" font-size="44" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">LOJA - Para pintar</text>
+<text x="400" y="120" font-family="Arial" font-size="28" text-anchor="middle" fill="#000" stroke="none">Bandera</text>
+<rect x="100" y="140" width="600" height="343"/>
+<line x1="100" y1="226" x2="700" y2="226"/><line x1="100" y1="269" x2="700" y2="269"/>
+<line x1="100" y1="354" x2="700" y2="354"/><line x1="100" y1="397" x2="700" y2="397"/>
+<text x="400" y="530" font-family="Arial" font-size="28" text-anchor="middle" fill="#000" stroke="none">Escudo</text>
+<path d="M200 560 H600 V850 Q600 990 400 1060 Q200 990 200 850 Z"/>
+<path d="M260 900 Q330 930 400 900 T540 900 M250 940 Q330 970 400 940 T550 940" />
+<rect x="290" y="720" width="220" height="150"/>
+<rect x="290" y="690" width="40" height="30"/><rect x="380" y="690" width="40" height="30"/><rect x="470" y="690" width="40" height="30"/>
+<rect x="270" y="650" width="50" height="220"/><rect x="480" y="650" width="50" height="220"/>
+<rect x="270" y="620" width="15" height="30"/><rect x="305" y="620" width="15" height="30"/>
+<rect x="480" y="620" width="15" height="30"/><rect x="515" y="620" width="15" height="30"/>
+<path d="M370 870 V800 Q400 770 430 800 V870"/>
+<line x1="540" y1="800" x2="540" y2="740"/><path d="M540 740 H580 V770 H540"/>
+</g></svg>
